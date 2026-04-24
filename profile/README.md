@@ -16,7 +16,7 @@ All the programs posted here share a common goal: helping you edit various parts
 | CopyCheck | Checking the finished video for copyright issues. | 🔵 In dev | - | - |
 | ChatSave | Logging live stream chat on Twitch. | 🔵 In dev | - | - |
 
-## I have a questions. Where can I ask about this?
+## Questions? Feel free to ask!
 
 You can create your own proposal for new software or request a solution to an existing issue in the "Issues" tab. You'll receive a response within 72 hours!<br>
 (Unfortunately, this is currently the only way to contact us. My fault, I guess.)
@@ -24,6 +24,6 @@ You can create your own proposal for new software or request a solution to an ex
 ## Some "tech" info
 
 Created at: 23.04.2026 15\:36\:28 UTC+0
-Last updated at: 24.04.2026 13\:16\:20 UTC+0
+Last updated at: 24.04.2026 13\:42\:10 UTC+0
 
 <small>More info coming soon...</small>
