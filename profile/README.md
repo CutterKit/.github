@@ -6,7 +6,7 @@ All the programs posted here share a common goal: helping you edit various parts
 
 | Project | Description | Status | Dev date | Release date |
 | - | - | - | - | - |
-| FragmaLive | Downloading specific parts of a stream from Twitch/YouTube | 🔵 In dev | - | - |
+| FragmaLive | Downloading specific parts of a stream from Twitch | 🔵 In dev | - | - |
 | AutoREC | Automatically record your stream immediately after it starts | 🔵 In dev | - | - |
 | Vertical | Video generation for Shorts/TikTok | 🔵 In dev | - | - |
 | NoQuiet | Cutting out moments without speech/music | 🔵 In dev | - | - |
@@ -24,6 +24,6 @@ You can create your own proposal for new software or request a solution to an ex
 ## Some "tech" info
 
 Created at: 23.04.2026 15\:36\:28 UTC+0<br>
-Last updated at: 24.04.2026 14\:16\:55 UTC+0
+Last updated at: 24.04.2026 08\:18\:10 UTC+0
 
 <small>More info coming soon...</small>
