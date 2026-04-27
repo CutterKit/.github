@@ -14,7 +14,7 @@ All the programs posted here share a common goal: helping you edit various parts
 | MetaGen | Generating metadata for videos | 🔵 In dev | - | - |
 | Thumby | Create a video thumbnail using YOUR template | 🔵 In dev | - | - |
 | CopyCheck | Search for copyright infringement in videos | 🔵 In dev | - | - |
-| ChatSave | Saving Twitch chat messages | 🔵 In dev | - | - |
+| ChatEye | Convert Twitch chat messages file to MP4 video | 🔵 In dev | - | - |
 
 ## Questions? Feel free to ask!
 
@@ -24,6 +24,6 @@ You can create your own proposal for new software or request a solution to an ex
 ## Some "tech" info
 
 Created at: 23.04.2026 15\:36\:28 UTC+0<br>
-Last updated at: 24.04.2026 08\:18\:10 UTC+0
+Last updated at: 27.04.2026 13\:54\:25 UTC+0
 
 <small>More info coming soon...</small>
